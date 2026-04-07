@@ -1,6 +1,6 @@
 # CV AI — Manual Test Suite
 
-**Feature Under Test:** Billing & Subscription Usage (Primary)
+**Feature Under Test:** Optimizing your Resume
 **Platform:** [https://cv-ai.work](https://cv-ai.work)
 **Submission Type:** Manual Test Suite (Markdown)
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains a comprehensive manual test suite for [CV AI](https://cv-ai.work), an AI-powered resume optimization platform. The **primary feature** selected for in-depth testing is **Billing & Subscription Usage**, which governs how monthly optimization quotas are enforced, tracked, and reset across the platform's four subscription tiers.
+This repository contains a comprehensive manual test suite for [CV AI](https://cv-ai.work), an AI-powered resume optimization platform. The **primary feature** selected for in-depth testing is **Optimizing your Resume**, which governs how CVs are reviewed, graded, and validated based on job description.
 
 The suite also covers all supporting features that interact with billing and core platform flows:
 
